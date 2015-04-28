@@ -9,3 +9,7 @@ You can live stream a place, find out who's where and whether the place is poppi
 * Live streaming
 * User accounts
 * Validations
+
+```
+rails new daHub
+```
